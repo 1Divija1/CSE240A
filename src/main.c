@@ -1,5 +1,6 @@
 //========================================================//
-//  CSE 240a Branch Lab                                   //
+//  CSE 240a Branch Lab
+//Project : Branch Predictor                              //
 //                                                        //
 //  Students need to implement various Branch Predictors  //
 //========================================================//
